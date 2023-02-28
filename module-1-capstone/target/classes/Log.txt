@@ -1,0 +1,313 @@
+12/14/22 21:37 PM FEED MONEY: $100.00 $100.00
+12/14/22 21:52:17 PM FEED MONEY: $1.00 $1.00
+12/14/22 21:52:47 PM FEED MONEY: $20.00 $21.00
+12/14/22 21:54:28 PM FEED MONEY: $234.00 $234.00
+12/14/22 21:54:37 PM Triplemint D4 0.75 233.25
+12/14/22 21:57:19 PM FEED MONEY: $10.00 $10.00
+12/14/22 21:57:25 PM Cowtales B2 1.5 8.5
+12/14/22 21:57:29 PM GIVE CHANGE $8.50 $0.00
+12/14/22 21:58:31 PM FEED MONEY: $100.00 $100.00
+12/14/22 21:58:35 PM Cloud Popcorn A4 3.65 96.35
+12/14/22 21:58:39 PM GIVE CHANGE $96.35 $0.00
+12/14/22 22:17:55 PM FEED MONEY: $10.00 $10.00
+12/14/22 22:17:57 PM GIVE CHANGE $10.00 $0.00
+12/14/22 22:23:18 PM FEED MONEY: $10.00 $10.00
+12/14/22 22:23:22 PM Triplemint D4 0.75 $9.25
+12/14/22 22:24:01 PM FEED MONEY: $10.00 $10.00
+12/14/22 22:24:05 PM Wonka Bar B3 $1.50 $8.50
+12/15/22 10:16:35 AM FEED MONEY: $10.00 $10.00
+12/15/22 10:16:44 AM Triplemint D4 $0.75 $9.25
+12/15/22 10:17:22 AM Cola C1 $1.25 $8.00
+12/15/22 10:18:05 AM Potato Crisps A1 $3.05 $4.95
+12/15/22 10:18:38 AM Moonpie B1 $1.80 $3.15
+12/15/22 10:22:26 AM FEED MONEY: $10.00 $10.00
+12/15/22 10:22:31 AM Chiclets D3 $0.75 $9.25
+12/15/22 20:14:12 PM FEED MONEY: $100.00 $100.00
+12/15/22 20:14:25 PM Triplemint D4 $0.75 $99.25
+12/15/22 20:14:32 PM GIVE CHANGE $99.25 $0.00
+12/15/22 20:15:04 PM FEED MONEY: $100.00 $100.00
+12/15/22 20:15:07 PM FEED MONEY: $20.00 $120.00
+12/15/22 20:15:09 PM FEED MONEY: $1.00 $121.00
+12/16/22 15:58:24 PM GIVE CHANGE $0.00 $0.00
+12/17/22 17:12:44 PM FEED MONEY: $3.00 $3.00
+12/17/22 17:12:50 PM GIVE CHANGE $3.00 $0.00
+12/18/22 10:58:55 AM Potato Crisps A1 $3.05 -$3.05
+12/18/22 11:03:41 AM Potato Crisps A1 $3.05 $6.95
+12/18/22 11:07:45 AM Wonka Bar B3 $1.50 $5.45
+12/18/22 11:11:35 AM Potato Crisps A1 $3.05 $11.95
+12/18/22 11:13:28 AM Moonpie B1 $1.80 $10.15
+12/18/22 11:16:35 AM Potato Crisps A1 $3.05 $6.95
+12/18/22 11:44:24 AM Potato Crisps A1 $3.05 $6.95
+12/18/22 12:29:49 PM Potato Crisps A1 $3.05 $17.95
+12/18/22 12:30:10 PM Potato Crisps A1 $3.05 $14.90
+12/18/22 12:30:14 PM Potato Crisps A1 $3.05 $11.85
+12/18/22 12:30:18 PM Potato Crisps A1 $3.05 $8.80
+12/18/22 12:30:22 PM Potato Crisps A1 $3.05 $5.75
+12/18/22 12:30:29 PM Potato Crisps A1 $3.05 $2.70
+12/18/22 12:30:35 PM Potato Crisps A1 $3.05 -$0.35
+12/18/22 12:35:37 PM Moonpie B1 $1.80 $8.20
+12/18/22 12:35:40 PM Moonpie B1 $1.80 $6.40
+12/18/22 12:35:43 PM Moonpie B1 $1.80 $4.60
+12/18/22 12:35:46 PM Moonpie B1 $1.80 $2.80
+12/18/22 12:35:48 PM Moonpie B1 $1.80 $1.00
+12/18/22 12:35:52 PM Moonpie B1 $1.80 $1.00
+12/18/22 12:36:17 PM Cowtales B2 $1.50 $1.00
+12/18/22 12:42:59 PM Potato Crisps A1 $3.05 $11.95
+12/18/22 12:43:04 PM Potato Crisps A1 $3.05 $8.90
+12/18/22 12:43:07 PM Potato Crisps A1 $3.05 $5.85
+12/18/22 12:43:10 PM Potato Crisps A1 $3.05 $2.80
+12/18/22 12:43:33 PM Chiclets D3 $0.75 $2.05
+12/18/22 12:45:41 PM Potato Crisps A1 $3.05 $1.95
+12/18/22 12:47:15 PM Potato Crisps A1 $3.05 $17.95
+12/18/22 12:47:17 PM Potato Crisps A1 $3.05 $14.90
+12/18/22 12:47:20 PM Potato Crisps A1 $3.05 $11.85
+12/18/22 12:47:22 PM Potato Crisps A1 $3.05 $8.80
+12/18/22 12:47:24 PM Potato Crisps A1 $3.05 $5.75
+12/18/22 13:16:02 PM FEED MONEY: $10.00 $10.00
+12/18/22 13:16:10 PM Chiclets D3 $0.75 $9.25
+12/18/22 13:16:13 PM GIVE CHANGE $9.25 $0.00
+12/18/22 13:18:42 PM FEED MONEY: $3.00 $3.00
+12/18/22 13:18:47 PM U-Chews D1 $0.85 $2.15
+12/18/22 13:18:49 PM GIVE CHANGE $2.15 $0.00
+12/18/22 13:34:58 PM Potato Crisps A1 $3.05 $1.95
+12/18/22 13:36:42 PM Crunchie B4 $1.75 $8.25
+12/18/22 14:46:15 PM GIVE CHANGE 5.0 0
+12/18/22 14:47:49 PM Potato Crisps A1 $3.05 $7.95
+12/18/22 14:47:57 PM Moonpie B1 $1.80 $6.15
+12/18/22 14:48:05 PM Cola C1 $1.25 $4.90
+12/18/22 14:48:10 PM U-Chews D1 $0.85 $4.05
+12/18/22 14:48:41 PM GIVE CHANGE 4.050000000000001 0
+12/18/22 14:53:18 PM Mountain Melter C3 $1.50 $5.50
+12/18/22 15:02:54 PM Dr. Salt C2 $1.50 $3.50
+12/18/22 15:04:39 PM Heavy C4 $1.50 $3.50
+12/18/22 15:04:46 PM U-Chews D1 $0.85 $2.65
+12/18/22 15:04:53 PM GIVE CHANGE $2.65 $0.00
+12/18/22 15:12:01 PM Potato Crisps A1 $3.05 $13.95
+12/18/22 15:13:09 PM GIVE CHANGE $13.95 $0.00
+12/18/22 15:21:17 PM GIVE CHANGE $11.00 $0.00
+12/18/22 15:30:34 PM GIVE CHANGE $0.00 $0.00
+12/18/22 15:32:03 PM GIVE CHANGE $0.00 $0.00
+12/18/22 15:48:55 PM FEED MONEY: $5.00 $5.00
+12/18/22 15:48:58 PM FEED MONEY: $1.00 $6.00
+12/18/22 15:49:01 PM FEED MONEY: $10.00 $16.00
+12/18/22 15:59:41 PMVending Machine Program Started
+12/18/22 16:02:58 PM Vending Machine Program Started
+12/18/22 16:03:07 PM FEED MONEY: $5.00 $5.00
+12/18/22 16:03:32 PM Wonka Bar B3 $1.50 $3.50 Remaining Stock: 4
+12/18/22 16:04:11 PM Wonka Bar B3 $1.50 $2.00 Remaining Stock: 3
+12/18/22 16:25:00 PM Vending Machine Program Started
+12/18/22 16:25:07 PM FEED MONEY: $5.00 $5.00
+12/18/22 16:25:14 PM Moonpie B1 $1.80 $3.20 Remaining Stock: 4
+12/18/22 16:25:36 PM GIVE CHANGE $3.20 $0.00
+12/18/22 16:31:58 PM Vending Machine Program Started
+12/18/22 16:33:19 PM FEED MONEY: $1.00 $1.00
+12/18/22 16:33:21 PM FEED MONEY: $5.00 $6.00
+12/18/22 16:33:22 PM FEED MONEY: $10.00 $16.00
+12/18/22 16:35:01 PM Vending Machine Program Started
+12/18/22 16:35:27 PM FEED MONEY: $5.00 $5.00
+12/18/22 16:35:29 PM FEED MONEY: $10.00 $15.00
+12/18/22 16:35:30 PM FEED MONEY: $1.00 $16.00
+12/18/22 16:39:01 PM Vending Machine Program Started
+12/18/22 16:41:35 PM Vending Machine Program Started
+12/18/22 16:42:12 PM Vending Machine Program Started
+12/18/22 16:42:50 PM Vending Machine Program Started
+12/18/22 16:44:11 PM Vending Machine Program Started
+12/18/22 16:46:38 PM Vending Machine Program Started
+12/18/22 16:52:49 PM Vending Machine Program Started
+12/18/22 16:56:13 PM Vending Machine Program Started
+12/18/22 17:04:00 PM Vending Machine Program Started
+12/18/22 17:07:56 PM Vending Machine Program Started
+12/18/22 17:09:08 PM Vending Machine Program Started
+12/18/22 17:10:46 PM Vending Machine Program Started
+12/18/22 17:11:50 PM Vending Machine Program Started
+12/18/22 17:12:10 PM FEED MONEY: $1.00 $1.00
+12/18/22 17:12:12 PM FEED MONEY: $5.00 $6.00
+12/18/22 17:12:13 PM FEED MONEY: $10.00 $16.00
+12/18/22 17:12:14 PM FEED MONEY: $5.00 $21.00
+12/18/22 17:12:15 PM FEED MONEY: $1.00 $22.00
+12/18/22 17:12:23 PM Moonpie B1 $1.80 $20.20 Remaining Stock: 4
+12/18/22 17:12:30 PM Chiclets D3 $0.75 $19.45 Remaining Stock: 4
+12/18/22 17:12:34 PM Moonpie B1 $1.80 $17.65 Remaining Stock: 3
+12/18/22 17:12:36 PM Potato Crisps A1 $3.05 $14.60 Remaining Stock: 4
+12/18/22 17:12:45 PM Triplemint D4 $0.75 $13.85 Remaining Stock: 4
+12/18/22 17:14:48 PM Potato Crisps A1 $3.05 $10.80 Remaining Stock: 3
+12/18/22 17:15:02 PM Chiclets D3 $0.75 $10.05 Remaining Stock: 3
+12/18/22 17:15:04 PM Chiclets D3 $0.75 $9.30 Remaining Stock: 2
+12/18/22 17:15:06 PM Chiclets D3 $0.75 $8.55 Remaining Stock: 1
+12/18/22 17:15:09 PM Chiclets D3 $0.75 $7.80 Remaining Stock: 0
+12/18/22 17:17:55 PM Vending Machine Program Started
+12/18/22 17:18:09 PM FEED MONEY: $1.00 $1.00
+12/18/22 17:18:10 PM FEED MONEY: $5.00 $6.00
+12/18/22 17:18:25 PM Potato Crisps A1 $3.05 $2.95 Remaining Stock: 4
+12/18/22 17:19:59 PM Vending Machine Program Started
+12/18/22 17:20:06 PM FEED MONEY: $1.00 $1.00
+12/18/22 17:20:07 PM FEED MONEY: $5.00 $6.00
+12/18/22 17:20:15 PM Little League Chew D2 $0.95 $5.05 Remaining Stock: 4
+12/18/22 17:20:28 PM Little League Chew D2 $0.95 $4.10 Remaining Stock: 3
+12/18/22 17:20:37 PM Potato Crisps A1 $3.05 $1.05 Remaining Stock: 4
+12/18/22 17:22:29 PM Vending Machine Program Started
+12/18/22 17:22:38 PM FEED MONEY: $10.00 $10.00
+12/18/22 17:22:49 PM Potato Crisps A1 $3.05 $6.95 Remaining Stock: 4
+12/18/22 17:22:57 PM Mountain Melter C3 $1.50 $5.45 Remaining Stock: 4
+12/18/22 17:23:53 PM GIVE CHANGE $5.45 $0.00
+12/18/22 17:28:02 PM Vending Machine Program Started
+12/18/22 17:28:36 PM Vending Machine Program Started
+12/18/22 17:29:39 PM Vending Machine Program Started
+12/18/22 17:30:24 PM Vending Machine Program Started
+12/18/22 17:35:48 PM Vending Machine Program Started
+12/18/22 17:36:26 PM Vending Machine Program Started
+12/18/22 17:37:51 PM Vending Machine Program Started
+12/18/22 17:38:40 PM Vending Machine Program Started
+12/18/22 17:39:03 PM Vending Machine Program Started
+12/18/22 17:40:33 PM Vending Machine Program Started
+12/18/22 17:41:11 PM Vending Machine Program Started
+12/18/22 17:42:07 PM Vending Machine Program Started
+12/18/22 17:43:44 PM Vending Machine Program Started
+12/18/22 17:44:08 PM Vending Machine Program Started
+12/18/22 17:44:24 PM Vending Machine Program Started
+12/18/22 17:45:42 PM Vending Machine Program Started
+12/18/22 17:48:01 PM Vending Machine Program Started
+12/18/22 17:48:49 PM FEED MONEY: $5.00 $5.00
+12/18/22 17:53:25 PM Vending Machine Program Started
+12/18/22 17:54:47 PM Vending Machine Program Started
+12/18/22 17:57:57 PM Vending Machine Program Started
+12/18/22 18:00:56 PM Vending Machine Program Started
+12/18/22 18:01:59 PM Vending Machine Program Started
+12/18/22 18:03:16 PM GIVE CHANGE $0.00 $0.00
+12/18/22 18:05:57 PM Vending Machine Program Started
+12/18/22 18:08:11 PM Vending Machine Program Started
+12/18/22 18:10:45 PM Vending Machine Program Started
+12/18/22 18:16:54 PM Vending Machine Program Started
+12/18/22 18:22:30 PM Vending Machine Program Started
+12/18/22 18:22:51 PM GIVE CHANGE $0.00 $0.00
+12/18/22 18:23:04 PM FEED MONEY: $5.00 $5.00
+12/18/22 18:23:18 PM Potato Crisps A1 $3.05 $1.95 Remaining Stock: 4
+12/18/22 18:23:30 PM Chiclets D3 $0.75 $1.20 Remaining Stock: 4
+12/18/22 18:23:44 PM FEED MONEY: $10.00 $11.20
+12/18/22 18:23:46 PM FEED MONEY: $5.00 $16.20
+12/18/22 18:23:51 PM FEED MONEY: $5.00 $21.20
+12/18/22 18:24:16 PM GIVE CHANGE $21.20 $0.00
+12/18/22 18:53:40 PM Vending Machine Program Started
+12/18/22 18:54:07 PM FEED MONEY: $1.00 $1.00
+12/18/22 18:54:09 PM FEED MONEY: $5.00 $6.00
+12/18/22 18:54:10 PM FEED MONEY: $10.00 $16.00
+12/18/22 18:54:18 PM Potato Crisps A1 $3.05 $12.95 Remaining Stock: 4
+12/18/22 18:54:30 PM GIVE CHANGE $12.95 $0.00
+12/18/22 19:05:57 PM Vending Machine Program Started
+12/18/22 19:11:20 PM Vending Machine Program Started
+12/18/22 19:11:33 PM FEED MONEY: $10.00 $10.00
+12/18/22 19:36:54 PM Vending Machine Program Started
+12/18/22 20:35:07 PM Vending Machine Program Started
+12/18/22 20:35:16 PM FEED MONEY: $10.00 $10.00
+12/18/22 20:37:02 PM Vending Machine Program Started
+12/18/22 20:40:02 PM Vending Machine Program Started
+12/18/22 20:41:44 PM Vending Machine Program Started
+12/18/22 20:43:02 PM Vending Machine Program Started
+12/18/22 20:43:55 PM Vending Machine Program Started
+12/18/22 20:45:52 PM Vending Machine Program Started
+12/18/22 20:46:12 PM Vending Machine Program Started
+12/18/22 20:46:36 PM Vending Machine Program Started
+12/18/22 20:47:40 PM Vending Machine Program Started
+12/18/22 20:49:51 PM Vending Machine Program Started
+12/18/22 20:50:22 PM Vending Machine Program Started
+12/18/22 20:50:56 PM Vending Machine Program Started
+12/18/22 20:51:18 PM Vending Machine Program Started
+12/18/22 20:51:32 PM Vending Machine Program Started
+12/18/22 20:51:50 PM Vending Machine Program Started
+12/18/22 20:52:46 PM Vending Machine Program Started
+12/18/22 20:53:20 PM Vending Machine Program Started
+12/18/22 20:53:21 PM Vending Machine Program Started
+12/18/22 20:54:16 PM Vending Machine Program Started
+12/18/22 20:54:33 PM Vending Machine Program Started
+12/18/22 20:56:11 PM FEED MONEY: $100.00 $100.00
+12/18/22 20:56:16 PM Potato Crisps A1 $3.05 $96.95 Remaining Stock: 4
+12/18/22 20:56:19 PM Potato Crisps A1 $3.05 $93.90 Remaining Stock: 3
+12/18/22 20:56:23 PM Potato Crisps A1 $3.05 $90.85 Remaining Stock: 2
+12/18/22 20:56:30 PM Potato Crisps A1 $3.05 $87.80 Remaining Stock: 1
+12/18/22 20:56:32 PM Potato Crisps A1 $3.05 $84.75 Remaining Stock: 0
+12/18/22 20:58:53 PM Vending Machine Program Started
+12/18/22 20:59:00 PM FEED MONEY: $100.00 $100.00
+12/18/22 20:59:10 PM Potato Crisps A1 $3.05 $96.95 Remaining Stock: 4
+12/18/22 20:59:13 PM Potato Crisps A1 $3.05 $93.90 Remaining Stock: 3
+12/18/22 20:59:15 PM Potato Crisps A1 $3.05 $90.85 Remaining Stock: 2
+12/18/22 20:59:17 PM Potato Crisps A1 $3.05 $87.80 Remaining Stock: 1
+12/18/22 20:59:19 PM Potato Crisps A1 $3.05 $84.75 Remaining Stock: 0
+12/18/22 21:01:07 PM Little League Chew D2 $0.95 $83.80 Remaining Stock: 4
+12/18/22 21:01:11 PM Little League Chew D2 $0.95 $82.85 Remaining Stock: 3
+12/18/22 21:01:13 PM Little League Chew D2 $0.95 $81.90 Remaining Stock: 2
+12/18/22 21:01:16 PM Little League Chew D2 $0.95 $80.95 Remaining Stock: 1
+12/18/22 21:01:23 PM Little League Chew D2 $0.95 $80.00 Remaining Stock: 0
+12/18/22 22:29:27 PM Vending Machine Program Started
+12/18/22 22:29:37 PM FEED MONEY: $100.00 $100.00
+12/18/22 22:29:43 PM Potato Crisps A1 $3.05 $96.95 Remaining Stock: 4
+12/18/22 22:29:49 PM Dr. Salt C2 $1.50 $95.45 Remaining Stock: 4
+12/18/22 22:46:59 PM Vending Machine Program Started
+12/18/22 22:47:11 PM FEED MONEY: $100.00 $100.00
+12/18/22 22:47:19 PM Cowtales B2 $1.50 $98.50 Remaining Stock: 4
+12/18/22 22:47:29 PM Cowtales B2 $1.50 $97.00 Remaining Stock: 3
+12/18/22 22:47:31 PM Cowtales B2 $1.50 $95.50 Remaining Stock: 2
+12/18/22 22:47:33 PM Cowtales B2 $1.50 $94.00 Remaining Stock: 1
+12/18/22 22:47:37 PM Cowtales B2 $1.50 $92.50 Remaining Stock: 0
+12/18/22 22:47:54 PM GIVE CHANGE $92.50 $0.00
+12/18/22 22:48:21 PM FEED MONEY: $10.00 $10.00
+12/18/22 22:48:40 PM Potato Crisps A1 $3.05 $6.95 Remaining Stock: 4
+12/18/22 22:48:46 PM GIVE CHANGE $6.95 $0.00
+12/18/22 22:52:36 PM Vending Machine Program Started
+12/18/22 22:56:15 PM Vending Machine Program Started
+12/18/22 22:57:38 PM GIVE CHANGE $0.00 $0.00
+12/18/22 22:58:03 PM FEED MONEY: $1.00 $1.00
+12/18/22 22:58:08 PM FEED MONEY: $5.00 $6.00
+12/18/22 22:58:10 PM FEED MONEY: $10.00 $16.00
+12/18/22 22:58:12 PM FEED MONEY: $5.00 $21.00
+12/18/22 22:58:35 PM Heavy C4 $1.50 $19.50 Remaining Stock: 4
+12/18/22 22:58:50 PM Cloud Popcorn A4 $3.65 $15.85 Remaining Stock: 4
+12/18/22 22:58:52 PM Cloud Popcorn A4 $3.65 $12.20 Remaining Stock: 3
+12/18/22 22:58:54 PM Cloud Popcorn A4 $3.65 $8.55 Remaining Stock: 2
+12/18/22 22:58:58 PM Cloud Popcorn A4 $3.65 $4.90 Remaining Stock: 1
+12/18/22 22:59:00 PM Cloud Popcorn A4 $3.65 $1.25 Remaining Stock: 0
+12/18/22 22:59:18 PM FEED MONEY: $5.00 $6.25
+12/18/22 23:00:06 PM GIVE CHANGE $6.25 $0.00
+12/18/22 23:02:35 PM Vending Machine Program Started
+12/18/22 23:08:54 PM Vending Machine Program Started
+12/18/22 23:14:09 PM Vending Machine Program Started
+12/18/22 23:16:22 PM Vending Machine Program Started
+12/18/22 23:19:00 PM Vending Machine Program Started
+12/18/22 23:20:40 PM Vending Machine Program Started
+12/18/22 23:22:13 PM Vending Machine Program Started
+12/18/22 23:22:49 PM Vending Machine Program Started
+12/18/22 23:31:39 PM FEED MONEY: $1.00 $1.00
+12/18/22 23:31:40 PM FEED MONEY: $5.00 $6.00
+12/18/22 23:31:42 PM FEED MONEY: $10.00 $16.00
+12/18/22 23:31:43 PM FEED MONEY: $5.00 $21.00
+12/18/22 23:31:45 PM FEED MONEY: $1.00 $22.00
+12/19/22 10:13:23 AM Potato Crisps A1 $3.05 $18.95 Remaining Stock: 4
+12/19/22 10:19:02 AM GIVE CHANGE $18.95 $0.00
+12/19/22 10:19:38 AM FEED MONEY: $1.00 $1.00
+12/19/22 10:19:43 AM FEED MONEY: $5.00 $6.00
+12/19/22 10:19:47 AM FEED MONEY: $10.00 $16.00
+12/19/22 10:20:00 AM Potato Crisps A1 $3.05 $12.95 Remaining Stock: 3
+12/19/22 10:20:13 AM Mountain Melter C3 $1.50 $11.45 Remaining Stock: 4
+12/19/22 10:20:19 AM Dr. Salt C2 $1.50 $9.95 Remaining Stock: 4
+12/19/22 10:20:24 AM Chiclets D3 $0.75 $9.20 Remaining Stock: 4
+12/19/22 10:20:41 AM Potato Crisps A1 $3.05 $6.15 Remaining Stock: 2
+12/19/22 10:20:43 AM Potato Crisps A1 $3.05 $3.10 Remaining Stock: 1
+12/19/22 10:20:45 AM Potato Crisps A1 $3.05 $0.05 Remaining Stock: 0
+12/19/22 10:20:54 AM FEED MONEY: $5.00 $5.05
+12/19/22 10:21:49 AM GIVE CHANGE $5.05 $0.00
+12/20/22 11:09:14 AM Vending Machine Program Started
+12/20/22 11:09:41 AM FEED MONEY: $5.00 $5.00
+12/20/22 11:09:47 AM FEED MONEY: $5.00 $10.00
+12/20/22 11:10:03 AM Potato Crisps A1 $3.05 $6.95 Remaining Stock: 4
+12/20/22 11:10:14 AM GIVE CHANGE $6.95 $0.00
+12/20/22 11:10:43 AM Vending Machine Program Started
+12/20/22 11:22:50 AM Vending Machine Program Started
+12/20/22 11:23:08 AM FEED MONEY: $5.00 $5.00
+12/20/22 11:23:15 AM Potato Crisps A1 $3.05 $1.95 Remaining Stock: 4
+12/20/22 11:23:22 AM GIVE CHANGE $1.95 $0.00
+12/20/22 11:26:26 AM Vending Machine Program Started
+12/20/22 11:28:09 AM FEED MONEY: $5.00 $5.00
+12/20/22 11:28:58 AM Chiclets D3 $0.75 $4.25 Remaining Stock: 4
+12/20/22 12:09:16 PM Vending Machine Program Started
+12/20/22 12:10:51 PM GIVE CHANGE $0.00 $0.00
+12/20/22 18:15:56 PM Vending Machine Program Started
+12/20/22 18:16:54 PM FEED MONEY: $5.00 $5.00
